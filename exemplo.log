@@ -1,0 +1,2 @@
+2022-08-08 21:11:25,682:INFO:validacao.py:Wendrew Oliveira
+2022-08-08 21:11:25,682:ERROR:validacao.py:Wendrew type: <class 'str'> - True type: <class 'bool'>
