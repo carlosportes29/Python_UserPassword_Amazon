@@ -16,7 +16,7 @@ BTN_CONTINUAR.submit();
 time.sleep(1)
 ##box senha
 USER_PASSWORD = browser.find_element("name", "password")
-USER_PASSWORD.send_keys('carlitos2022')
+USER_PASSWORD.send_keys('redigir_senha')
 
 ##fazer Login
 BTN_LOGAR = browser.find_element("id", "signInSubmit");
